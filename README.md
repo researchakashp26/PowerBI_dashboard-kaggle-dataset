@@ -1,2 +1,2 @@
-# PowerBI_dashboard-kaggle-dataset
+# Sales & Profit Analysis - PowerBI_dashboard-kaggle-dataset
 Worked on a Kaggle dataset - Sample Superstore Dataset (9k+ rows) containing Order Date, State, City, Region, Subcategory, Sales, Discount, Profit. Transformed the colums & rows with Power Query to replace null values and column headings, perfomed data cleaning & formatting to further simplify the dashboard layout. Added DAX measures to profit values with subcategories that helps plotting charts, graphs & interactive KPIs to solve business insights.
